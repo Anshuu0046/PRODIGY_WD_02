@@ -1,0 +1,13 @@
+.stopwatch {
+    text-align: center;
+    padding: 20px;
+}
+
+.display {
+    font-size: 48px;
+    margin-bottom: 20px;
+}
+
+.controls button {
+    margin: 0 10px;
+}
